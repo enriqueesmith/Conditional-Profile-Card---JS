@@ -63,7 +63,7 @@ function render(variables = {}) {
         </div>
     `;
 }
-//ignore this lines, here is where we do the logic for the dropdowns
+//Here is where we do the logic for the dropdowns
 window.onload = function() {
   window.variables = {
     // if includeCover is true the algorithm should
