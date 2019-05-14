@@ -1,6 +1,6 @@
 # Conditional Profile Card
 
-This Conditional Profile Card was built using HTML, CSS, JavaScript, NodeJS and Webpack.
+This Conditional Profile Card was built using HTML, CSS, JavaScript, NodeJS, NPM Packages and Webpack.
 
 See the Live Demo here: https://enriqueesmith.github.io/Conditional-Profile-Card---JS.github.io/ .
 
