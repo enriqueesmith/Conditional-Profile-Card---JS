@@ -1,10 +1,17 @@
 # Conditional Profile Card
 
+This Conditional Profile Card was built using HTML, CSS, JavaScript, NodeJS, NPM Packages and Webpack.
+
+See the Live Demo here: https://enriqueesmith.github.io/Conditional-Profile-Card---JS.github.io/ .
+
+
+
+
+# Conditional Profile Card
+
 As a web developer, you will be creatings lots and lots of dynamic HTML using Javascript based algorithms.
 
-In this exercise you have to create the HTML code needed to render a profile card based on a series of variables that could change in value during runtime. Here is an example of the profile card:
-
-![Conditional Profile Card](https://raw.githubusercontent.com/breatheco-de/exercise-conditional-profile-card/master/preview.png)
+In this exercise you have to create the HTML code needed to render a profile card based on a series of variables that could change in value during runtime. 
 
 ## Initial Variable Values
 
